@@ -1,2 +1,2 @@
 # sentence-makerer
-generate sentences based on a text file and random numbers
+generate sentences based on a text file and some randomness
