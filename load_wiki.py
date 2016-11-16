@@ -4,7 +4,19 @@ from random import choice
 titles = ["Google",
           "England",
           "United Kingdom",
-          "The Hitchhiker's Guide to the Galaxy"]
+          "The Hitchhiker's Guide to the Galaxy",
+          "Otis Redding",
+          "War and Peace",
+          "Cake",
+          "Queen Victoria",
+          "Binary number",
+          "Bible,"
+          "Artificial intelligence",
+          "GitHub",
+          "Python (programming language)",
+          "Machine learning",
+          "Alan Turing",
+          "Enigma machine"]
 
 
 def get_list(number_of_pages):
